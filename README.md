@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Git Hub](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Git Hub](https://github.com/humbl3lalis/huddle_landing_page_with_curved_sections.git)
+- Live Site URL: [Vercel](https://huddle-landing-page-with-curved-sections-nine-lyart.vercel.app/)
 
 ## My process
 
